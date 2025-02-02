@@ -26,3 +26,4 @@ console.log("Is this Mastercard valid?", validateCreditCard(cardNumber2));
 console.log("Is this Dollar Account card valid?", validateCreditCard(cardNumber3));
 console.log("Is this Verve card valid?", validateCreditCard(cardNumber4));
 console.log("Is this BTC card valid?", validateCreditCard(cardNumber5));
+.
